@@ -1,0 +1,12 @@
+# Checkpoints
+\.ipynb_checkpoints
+
+# VSCode
+.vscode
+
+# Script
+*.m
+
+# videos
+*.avi
+*.mp4
